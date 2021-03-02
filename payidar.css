@@ -1,0 +1,9 @@
+/* Scroll Bar Arka Plan Rengi Değiştirme */
+::-webkit-scrollbar{
+  background: black;
+}
+
+/* Scroll Bar Çubuk Arka Plan Rengi Değiştirme */
+::-webkit-scrollbar-thumb{
+  background: orange;
+}
